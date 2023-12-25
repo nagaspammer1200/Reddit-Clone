@@ -1,3 +1,5 @@
-# Reddit-Clone
+Old Reddit Clone
 
-This is an attempt to recreate the Reddit User Interface using Materialze CSS. I plan on making it more responsive
+This is a Clone of Old Reddit made from scratch. This Project enabled me to incorporate HTML with Materialize CSS further with usage of buttons,search bars etc. 
+
+
